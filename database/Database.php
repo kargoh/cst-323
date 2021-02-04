@@ -4,9 +4,9 @@
 class Database {
     
     // Declare private database variables
-    private $dbservername = "localdb";
-    private $dbusername = "root";
-    private $dbpassword = "root";
+    private $dbservername = "localhost";
+    private $dbusername = "azure_superuser";
+    private $dbpassword = "";
     private $dbname = "milestone";
     
     // Class constructor
