@@ -4,7 +4,7 @@
 class Database {
     
     // Declare private database variables
-    private $dbservername = "localdb";
+    private $dbservername = "localhost";
     private $dbusername = "azure";
     private $dbpassword = "6#vWHD_$";
     private $dbname = "milestone";
