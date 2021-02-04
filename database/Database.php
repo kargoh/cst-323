@@ -4,7 +4,7 @@
 class Database {
     
     // Declare private database variables
-    private $dbservername = "cst323-testapp-mysqldbserver.mysql.database.azure.com";
+    private $dbservername = "127.0.0.1";
     private $dbusername = "azure_superuser";
     private $dbpassword = "";
     private $dbname = "milestone";
