@@ -7,19 +7,19 @@
   <div class="collapse navbar-collapse" id="navbarSupportedContent">
     <ul class="navbar-nav mr-auto">
       <li class="nav-item active">
-        <a class="nav-link" href="http://localhost/CST-236/Milestone-Project/">Home <span class="sr-only">(current)</span></a>
+        <a class="nav-link" href="/">Home <span class="sr-only">(current)</span></a>
       </li>
       <li class="nav-item">
-        <a class="nav-link" href="http://localhost/CST-236/Milestone-Project/presentation/views/login.php">Login</a>
+        <a class="nav-link" href="/presentation/views/login.php">Login</a>
       </li>
       <li class="nav-item dropdown">
         <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
           Admin
         </a>
         <div class="dropdown-menu" aria-labelledby="navbarDropdown">
-          <a class="dropdown-item" href="http://localhost/CST-236/Milestone-Project/presentation/views/adminUsers.php">View Users</a>
-          <a class="dropdown-item" href="http://localhost/CST-236/Milestone-Project/presentation/views/adminProducts.php">View Products</a>
-          <a class="dropdown-item" href="http://localhost/CST-236/Milestone-Project/presentation/views/new-product-form.php">Add Product</a>
+          <a class="dropdown-item" href="/presentation/views/adminUsers.php">View Users</a>
+          <a class="dropdown-item" href="/presentation/views/adminProducts.php">View Products</a>
+          <a class="dropdown-item" href="/presentation/views/new-product-form.php">Add Product</a>
           <!-- <div class="dropdown-divider"></div> -->
           <!--<a class="dropdown-item" href="#">Something else here</a> -->
         </div>
