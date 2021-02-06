@@ -7,7 +7,7 @@ class Database {
     private $dbservername = "127.0.0.1:51750";
     private $dbusername = "azure";
     private $dbpassword = "6#vWHD_$";
-    private $dbname = "mysql";
+    private $dbname = "milestone";
     
     // Class constructor
     function __construct() {
